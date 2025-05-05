@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Basic Kivy App</string>
+    <string name="private_version">615e2ec1595403b640435631393a37f5ee0bab85</string>
+    <string name="presplash_color">#FFFFFF</string>
+    <string name="urlScheme">kivy</string>
+</resources>
